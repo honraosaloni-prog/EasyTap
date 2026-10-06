@@ -125,3 +125,4 @@ A workflow that builds the debug APK and uploads it as an artifact can be added 
 Planned coverage: unit tests (intent parsing, risk classification, privacy filtering, sensitive-screen detection, response validation), UI tests (assistant, voice, settings, screen-assistance controls) and security tests (no secrets in the app, no sensitive data persisted or sent, invalid AI output rejected).
 
 
+
